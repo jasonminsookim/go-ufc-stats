@@ -9,3 +9,8 @@
   - Air: Hot reloading
   - Echo: Router
 - Tailwind CSS + DaisyUI
+
+## Use Neon DB:
+
+1. https://console.neon.tech/app/projects
+2. `neonctl branches list`
