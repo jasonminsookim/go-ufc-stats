@@ -7,7 +7,7 @@ import (
 	"github.com/labstack/echo/v4/middleware"
 	echoSwagger "github.com/swaggo/echo-swagger"
 
-	_ "github.com/jasonminsookim/go-ufcstats/cmd/docs"
+	_ "github.com/jasonminsookim/go-ufc-stats/cmd/docs"
 )
 
 func main() {
